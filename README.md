@@ -30,7 +30,7 @@
 
 ### Clicker를 클론코딩한 좌석 배정 앱 프로토타입
 
-![좌석 배정 앱](https://prod-files-secure.s3.us-west-2.amazonaws.com/a3e29db4-24e1-4b27-b8f1-6245f33b8a0b/48002df5-3ded-4a29-863a-51ed8e6715b0/image.png)
+<img src="https://firebasestorage.googleapis.com/v0/b/meat-dictionary.appspot.com/o/git-image%2Fseat-monitor%2F1.png?alt=media&token=dc4e320c-0bde-432f-b2ea-0d804e0d8ea8" alt="좌석 배정 앱" width="300"/>
 
 - **기능 설명**
   - 기존의 좌석 배정 앱 Clicker에 추가하기 위해 클론 코딩하여 비슷한 환경 구축
